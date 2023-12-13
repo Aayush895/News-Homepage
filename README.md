@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source Code](https://github.com/Aayush895/News-Homepage)
-- Live Site URL: [Deployed Site](https://your-live-site-url.com)
+- Live Site URL: [Deployed Site](https://news-homepage-responsive-navbar.netlify.app/)
 
 ## My process
 
